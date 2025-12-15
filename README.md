@@ -7,7 +7,7 @@ Setup Plugins & Activate Venv
 - Activate: `source venv/bin/activate` (do it each time when reboot)
 
 3. Install Required Python Packages
-    - `pip install selenium
+    - `pip install selenium`
     - `pip install undetected-chromedriver` 
     - `pip install setuptools  # required for Python 3.12+`
 
